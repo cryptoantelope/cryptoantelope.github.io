@@ -1,37 +1,6 @@
-## Welcome to GitHub Pages
+## Bienvenido a Crypto Antelope
 
-You can use the [editor on GitHub](https://github.com/cryptoantelope/cryptoantelope.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Acá compartiremos los mejores sitios y comparativas de sitios en los que se puedan ocupar criptomendas. Cualquier duda y/o aporte puedes escribirnos a nuestro [twitter](https://twitter.com/cryptoAntelope)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cryptoantelope/cryptoantelope.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Casinos y apuestas
+[Lista comparativa](./casinos) de casinos y sitios de apuestas en criptomonedas que vamos probando. Algunas estrategias se pueden ver en video en el canal de [youtube](https://www.youtube.com/channel/UCQUjBPiXbSjr_3inCGQox-g)
