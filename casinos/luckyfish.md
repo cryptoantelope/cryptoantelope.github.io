@@ -1,6 +1,7 @@
 ## Luckyfish [:link:](http://bit.ly/luckyfishAntelope)
 
 ### Criptomonedas aceptadas
+
 | criptomoneda | retiro mínimo | comisión de retiro |
 |---|:---:|:---:|
 |BTC|0.00200000| 0.00010000 |
@@ -40,4 +41,4 @@ Dice, crash, keno, plinko, mines, bitcat, ruleta, poker, tragamonedas, poker
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VrCmrGwjNMs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gBZ-0l2xlIQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[<img src="/img/luckyfish-roulette468x60.jpg" />](http://bit.ly/luckyfishAntelope)
+[<img src="../img/luckyfish-roulette468x60.jpg" />](http://bit.ly/luckyfishAntelope)
