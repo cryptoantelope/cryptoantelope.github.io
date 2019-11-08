@@ -4,3 +4,7 @@ Acá compartiremos los mejores sitios y comparativas de sitios en los que se pue
 
 ### Casinos y apuestas
 [Lista comparativa](./casinos.html) de casinos y sitios de apuestas en criptomonedas que vamos probando. Algunas estrategias se pueden ver en video en el canal de [youtube](https://www.youtube.com/channel/UCQUjBPiXbSjr_3inCGQox-g)
+
+
+### Casas de cambio
+[Lista comparativa](./exchanges.html) de casas de cambio de criptomonedas con sus respectivos comisiones. 
