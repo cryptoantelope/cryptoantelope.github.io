@@ -1,7 +1,19 @@
-description: Información sobre el mundo crypto y sitios de interes
+description: Información sobre el mundo crypto y sitios de interés
 theme: jekyll-theme-architect
 title: Crypto Antelope
 google_analytics: UA-151767620-1
 
 plugins:
   - jemoji
+
+gems:
+  - jekyll-sitemap
+  - jekyll-feed
+
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME
