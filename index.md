@@ -1,10 +1,6 @@
-## Bienvenido a Crypto Antelope
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-Acá compartiremos los mejores sitios y comparativas de sitios en los que se puedan ocupar criptomendas. Cualquier duda y/o aporte puedes escribirnos a nuestro [twitter](https://twitter.com/cryptoAntelope)
-
-### Casinos y apuestas
-[Lista comparativa](./casinos.html) de casinos y sitios de apuestas en criptomonedas que vamos probando. Algunas estrategias se pueden ver en video en el canal de [youtube](https://www.youtube.com/channel/UCQUjBPiXbSjr_3inCGQox-g)
-
-
-### Casas de cambio
-[Lista comparativa](./exchanges.html) de casas de cambio de criptomonedas con sus respectivos comisiones. 
+layout: home
+---
